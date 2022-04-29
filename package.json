@@ -1,0 +1,22 @@
+{
+  "name": "@netly/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmytroMysak/prettier-config.git"
+  },
+  "author": "Dmytro Mysak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmytroMysak/prettier-config/issues"
+  },
+  "homepage": "https://github.com/DmytroMysak/prettier-config#readme",
+  "keywords": [
+    "prettier",
+    "config",
+    "lint",
+    "javascript"
+  ]
+}
