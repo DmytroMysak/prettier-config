@@ -1,14 +1,35 @@
 {
   "name": "@netly/prettier-config",
   "version": "1.0.1",
-  "description": "Prettier config",
+  "description": "Prettier config with prettier as peerDependencies",
   "main": "index.json",
+  "files": [
+    "package.json",
+    "index.json"
+  ],
+  "scripts": {
+    "cz": "cz",
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "@netly/semantic-release-config": "^1.0.2",
+    "prettier": "2.7.1"
+  },
+  "peerDependencies": {
+    "prettier": "2.x.x"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DmytroMysak/prettier-config.git"
   },
-  "author": "Dmytro Mysak",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/DmytroMysak/prettier-config/issues"
   },
@@ -18,5 +39,7 @@
     "config",
     "lint",
     "javascript"
-  ]
+  ],
+  "author": "Dmytro Mysak <dmytro.mysak@gmail.com>",
+  "license": "MIT"
 }

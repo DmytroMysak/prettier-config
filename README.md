@@ -8,6 +8,7 @@
 
 ```bash
 $ yarn add --dev @netly/prettier-config
+$ npm i -D @netly/prettier-config
 ```
 
 **Edit `package.json`**:
