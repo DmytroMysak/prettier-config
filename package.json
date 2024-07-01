@@ -15,7 +15,7 @@
   "devDependencies": {
     "@netly/semantic-release-config": "^1.0.3",
     "npm-check-updates": "^16.14.6",
-    "prettier": "3.2.5"
+    "prettier": "3.3.2"
   },
   "peerDependencies": {
     "prettier": "3.x.x"
