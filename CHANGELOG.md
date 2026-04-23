@@ -5,6 +5,23 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.0](https://github.com/DmytroMysak/prettier-config/compare/v1.3.0...v1.4.0) (2026-04-23)
+
+### Features
+
+- updated prettier ([e5fb568](https://github.com/DmytroMysak/prettier-config/commit/e5fb568ae3fa12cfc997acda955fcf2ee43877a0))
+
+### Bug Fixes
+
+- **ci:** fixed CI ([57f1c16](https://github.com/DmytroMysak/prettier-config/commit/57f1c16365acf2c560367c2ee3b557fb21761779))
+
+<!-- markdownlint-disable --><!-- textlint-disable -->
+
+# 📓 Changelog
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.3.0](https://github.com/DmytroMysak/prettier-config/compare/v1.2.0...v1.3.0) (2023-11-03)
 
 ### Features
